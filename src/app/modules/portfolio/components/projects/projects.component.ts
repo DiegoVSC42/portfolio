@@ -22,7 +22,7 @@ export class ProjectsComponent {
       height: '75%',
       title: 'What The Number',
       description:
-        'Um projeto desenvolvido em Java que oferece uma maneira simples e intuitiva de explorar diversas propriedades matemáticas de números. A aplicação permite que o usuário insira um número e receba informações detalhadas, como fatores, primalidade, números perfeitos, e outras curiosidades matemáticas.',
+        'Um projeto desenvolvido em Angular e Java com Spring que oferece uma maneira simples e intuitiva de explorar diversas propriedades matemáticas de números. A aplicação permite que o usuário insira um número e receba informações detalhadas, como fatores, primalidade, números perfeitos, e outras curiosidades matemáticas.',
       links: [
         {
           name: 'LINK DO PROJETO',
