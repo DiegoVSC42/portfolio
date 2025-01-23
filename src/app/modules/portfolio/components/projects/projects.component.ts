@@ -26,7 +26,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'LINK DO PROJETO',
-          href: 'https://what-the-number.up.railway.app/number-info/123',
+          href: 'https://what-the-number-frontend.vercel.app/',
         },
       ],
     },
